@@ -1,0 +1,33 @@
+<body style="background:#ddd">
+<div style="
+	margin:auto;
+    padding:2%;
+    width:92%;
+    display:inline-block">
+    
+    <img src="https://i.imgur.com/jtfGZdv.png" style="
+    width:100%;
+    margin:auto; 
+    padding:2%">
+    
+    <div style="
+	margin:auto;
+    width:96%;
+    padding:4%;
+    display:inline-block;
+    text-align:justify;
+    font-size:18px;
+    background:rgba(255,255,255, 0.2);
+    color:#356049;
+    font-family: 'Nunito', sans-serif;">
+    Welcome to your first year at camp, and your first course in Arts and Crafts! This year we'll be working on a lot of fun activities for everyone to enjoy, similar to ones you might see at any other summer camp. Enjoy your time in the Arts and Crafts cabin and remember to pick up our handy book of craft projects at Barnes and Nobles!
+    <img src="https://i.imgur.com/jv8cHK7.gif" style="
+    height:80px;
+    padding:2%;
+    float:right">
+    </div>
+    
+</div>
+</body>
+    
+    
