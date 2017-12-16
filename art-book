@@ -1,0 +1,217 @@
+<div id="container" style=
+"margin:auto;
+width:95%;
+background:#ddd">
+
+<br>
+<div id="title" style="
+text-align:center;
+font-family:'Verdana', sans-serif;
+font-size:30px;
+text-transform:uppercase;
+letter-spacing:3px;
+padding:10px;
+">Camp Half Blood Art Gallery</div>
+<br>
+
+<hr style="border: 0;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    width:60%;
+    margin:auto;">
+    
+    <br>
+    <br>
+    
+<div id="subtitle" style="
+text-align:center;
+font-family:'Verdana', sans-serif;
+font-size:20px;
+text-transform:uppercase;
+letter-spacing:3px;
+padding:7px;">From Year One: Beginners</div>
+<br>
+
+<div id="images" style="
+margin:0 auto 10px auto;
+width:90%;
+height:500px;
+overflow:hidden;
+background:#ddd;
+border:20px solid #fff;">
+
+<a name="1"></a>
+<div style="
+background:url(http://grandlakechamber.com/wp-content/uploads/2016/04/Oil-On-Canvas-Abstract-Art.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#6"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="2"></a>
+<div style="
+background:url(https://www.planwallpaper.com/static/images/desktop-year-of-the-tiger-images-wallpaper.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#1"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#3"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="3"></a>
+<div style="
+background:url(https://dms.hallco.org/web/wp-content/uploads/art.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#2"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#4"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="4"></a>
+<div style="
+background:url(https://www.wur.nl/upload_mm/b/3/4/3a6bdd8d-9386-4761-a1a6-9e4096c2ee23_forest-640x0_3823ebea_490x330.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#3"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#5"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="5"></a>
+<div style="
+background:url(https://s-media-cache-ak0.pinimg.com/originals/5a/e5/8f/5ae58f5036997cfd4636917403c3c951.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#4"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#6"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="6"></a>
+<div style="
+background:url(http://www.elastic.co/assets/bltada7771f270d08f6/enhanced-buzz-1492-1379411828-15.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#5"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#1"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+</div>
+<br>
+
+<hr style="border: 0;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    width:60%;
+    margin:auto;">
+<br>
+<div id="subtitle" style="
+text-align:center;
+font-family:'Verdana', sans-serif;
+font-size:20px;
+text-transform:uppercase;
+letter-spacing:3px;
+padding:7px;">From Year Two: Myths & Legends</div>
+<br>
+
+<div id="images" style="
+margin:0 auto 10px auto;
+width:90%;
+height:500px;
+overflow:hidden;
+background:#ddd;
+border:20px solid #fff;">
+
+<a name="1"></a>
+<div style="
+background:url(http://grandlakechamber.com/wp-content/uploads/2016/04/Oil-On-Canvas-Abstract-Art.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#6"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="2"></a>
+<div style="
+background:url(https://www.planwallpaper.com/static/images/desktop-year-of-the-tiger-images-wallpaper.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#1"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#3"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="3"></a>
+<div style="
+background:url(https://dms.hallco.org/web/wp-content/uploads/art.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#2"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#4"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="4"></a>
+<div style="
+background:url(https://www.wur.nl/upload_mm/b/3/4/3a6bdd8d-9386-4761-a1a6-9e4096c2ee23_forest-640x0_3823ebea_490x330.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#3"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#5"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="5"></a>
+<div style="
+background:url(https://s-media-cache-ak0.pinimg.com/originals/5a/e5/8f/5ae58f5036997cfd4636917403c3c951.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#4"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#6"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+<a name="6"></a>
+<div style="
+background:url(http://www.elastic.co/assets/bltada7771f270d08f6/enhanced-buzz-1492-1379411828-15.jpg);
+height:300px;
+padding-top:50%;
+background-size:cover;
+overflow:hidden;
+padding-top:200px">
+<a href="#5"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
+<a href="#1"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+</div>
+
+</div>
+<br>
+
+</div>
