@@ -22,7 +22,6 @@ padding:10px;
     margin:auto;">
     
     <br>
-    <br>
     
 <div id="subtitle" style="
 text-align:center;
@@ -49,8 +48,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#6"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#6"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#2"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 <a name="2"></a>
@@ -61,8 +60,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#1"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#3"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#1"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#3"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 <a name="3"></a>
@@ -73,8 +72,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#2"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#4"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#2"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#4"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 <a name="4"></a>
@@ -85,8 +84,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#3"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#5"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#3"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#5"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 <a name="5"></a>
@@ -97,8 +96,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#4"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#6"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#4"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px; ;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#6"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 <a name="6"></a>
@@ -109,8 +108,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#5"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#1"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#5"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#1"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 </div>
 <br>
@@ -139,7 +138,7 @@ overflow:hidden;
 background:#ddd;
 border:20px solid #fff;">
 
-<a name="1"></a>
+<a name="1a"></a>
 <div style="
 background:url(http://grandlakechamber.com/wp-content/uploads/2016/04/Oil-On-Canvas-Abstract-Art.jpg);
 height:300px;
@@ -147,11 +146,11 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#6"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#2"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#6a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#2a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
-<a name="2"></a>
+<a name="2a"></a>
 <div style="
 background:url(https://www.planwallpaper.com/static/images/desktop-year-of-the-tiger-images-wallpaper.jpg);
 height:300px;
@@ -159,11 +158,11 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#1"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#3"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#1a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#3a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
-<a name="3"></a>
+<a name="3a"></a>
 <div style="
 background:url(https://dms.hallco.org/web/wp-content/uploads/art.jpg);
 height:300px;
@@ -171,11 +170,11 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#2"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#4"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#2a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#4a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
-<a name="4"></a>
+<a name="4a"></a>
 <div style="
 background:url(https://www.wur.nl/upload_mm/b/3/4/3a6bdd8d-9386-4761-a1a6-9e4096c2ee23_forest-640x0_3823ebea_490x330.jpg);
 height:300px;
@@ -183,11 +182,11 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#3"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#5"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#3a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#5a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
-<a name="5"></a>
+<a name="5a"></a>
 <div style="
 background:url(https://s-media-cache-ak0.pinimg.com/originals/5a/e5/8f/5ae58f5036997cfd4636917403c3c951.jpg);
 height:300px;
@@ -195,11 +194,11 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#4"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#6"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#4a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#6a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
-<a name="6"></a>
+<a name="6a"></a>
 <div style="
 background:url(http://www.elastic.co/assets/bltada7771f270d08f6/enhanced-buzz-1492-1379411828-15.jpg);
 height:300px;
@@ -207,8 +206,8 @@ padding-top:50%;
 background-size:cover;
 overflow:hidden;
 padding-top:200px">
-<a href="#5"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px"></a>
-<a href="#1"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kazakh_Tamga_65.svg" style="float:right;height:100px;"></a>
+<a href="#5a"><img src="http://pixsector.com/cache/a8009c95/av8a49a4f81c3318dc69d.png" style="float:left;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
+<a href="#1a"><img src="https://i.imgur.com/KE84cqs.png" style="float:right;height:100px;-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);"></a>
 </div>
 
 </div>
