@@ -1,0 +1,114 @@
+<div id="container" style="
+	background:url(https://i.imgur.com/1vJ0dzd.jpg); 
+    background-repeat:repeat;
+    margin:auto;
+    padding:2%;
+    width:94%;">
+    
+<div id="container2" style="
+	background:url(https://i.imgur.com/Wym4d2h.jpg);
+    background-repeat:repeat;
+    margin:auto;
+    padding:4%;
+    width:90%;">
+    
+    <div id="title" style="
+    font-family:'Trajan', serif;
+    font-size:35px;
+    text-align:center;
+    letter-spacing:5px;
+    color:#214130;
+    text-transform:uppercase;">
+    Title Here
+    </div>
+    
+    <hr style="
+     border: 0; 
+     height: 3px; 
+     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(33, 65, 48, 0.75), rgba(0, 0, 0, 0));">
+
+	<div id="text" style="
+    font-family:'Trajan', serif;
+    font-size:18px;
+    text-align:justify;
+    color:#2C3206;
+    display:inline-block;
+    text-indent:5%">
+    Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing.  testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing <img src="https://mysticalnumbers.com/wp-content/uploads/2012/07/Number-7-books.jpg" style="width:100px; float:left; margin:9px; border: #2C3206 4px solid; display:inline-block;">testing testing Testing testing testing testing testing testing testing Testing testing testing testing testing Testing testing.  testing Testing testing testing Testing testing testing testing testing Testing testing testing testing testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing.  testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing. </p>
+    <p><span class="speech" style="color:#214130;text-shadow:1px 1px 5px #8A8A79;">"Testing testing testing Testing testing testing Testing testing testing testing testing Testing testing testing testing testing," </span>Testing testing testing. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Greek_lc_psi.svg/1200px-Greek_lc_psi.svg.png" style="width:100px; float:right; margin:8px; border: #2C3206 4px solid; display:inline-block;"><span class="speech" style="color:#214130;text-shadow:1px 1px 5px #8A8A79;">"Testing testing testing Testing testing testing Testing testing."</span> testing Testing testing testing.  Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing.  testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing.
+    </div>
+</div>
+
+<br>
+
+<div id="container2" style="
+	background:url(https://i.imgur.com/Wym4d2h.jpg);
+    background-repeat:repeat;
+    margin:auto;
+    padding:2%;
+    width:94%;">
+   
+   	<div id="title" style="
+    font-family:'Trajan', serif;
+    font-size:25px;
+    text-align:center;
+    letter-spacing:5px;
+    color:#214130;
+    text-transform:uppercase;">
+    Assignment
+    </div>
+    
+    <hr style="
+     border: 0; 
+     height: 2px; 
+     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(33, 65, 48, 0.75), rgba(0, 0, 0, 0));">
+    
+    <div id="text" style="
+    font-family:'Trajan', serif;
+    font-size:18px;
+    text-align:justify;
+    color: #2C3206 ;
+    width:80%;
+    margin:auto;">
+    <p>Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing testing Testing testing </p>
+    </div>
+</div>
+
+<br>
+
+<div id="container2" style="
+	background:url(https://i.imgur.com/Wym4d2h.jpg);
+    background-repeat:repeat;
+    margin:auto;
+    padding:2%;
+    width:94%;
+    text-align:center;">
+    
+    <div id="title" style="
+    font-family:'Trajan', serif;
+    font-size:20px;
+    text-align:center;
+    letter-spacing:5px;
+    color:#214130;
+    text-transform:uppercase;
+    font-style:italic;">
+    Additional Notes
+    </div>
+    
+    <div id="text" style="
+    font-family:'Trajan', serif;
+    font-size:18px;
+    text-align:center;
+    color: #2C3206;
+    width:94%;
+    margin:auto;
+    font-style:italic;">
+    Yo lil ones don't forget ur sources and remember that papa thad is here to help u figure out those big scary number things and just remember that u r number 1 even though that's kind of not an ideal number it's a good number 4 u xoxoxo<br>
+    <img src="https://i.imgur.com/jv8cHK7.gif" height=50px>
+   <hr style="	height: 10px;
+    width:80%;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #214130 inset;">
+    </div>
+</div>
+</div>
