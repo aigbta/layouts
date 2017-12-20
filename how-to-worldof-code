@@ -1,0 +1,188 @@
+i'm gonna try sending this and see if it messes with the code bits in it.  
+
+CODING 101
+
+First of all, a few basic tips:
+1. The "language" the site uses is mainly HTML.  It also uses CSS, but this language is for style, while HTML is for structure. 
+2. The best way to learn is to look at other codes.  Tessiamess has some fantastic ones!
+3. Google is your friend.  You can google "border with shadow html" and find multiple tutorials.
+4. Here's a handy dandy code tester.  You code in the left, press run, and it'll generate in the right.  https://www.w3schools.com/code/tryit.asp?filename=FI1023IREYWI  AND it'll also change colors if you forget a " or >.  
+5. Worldof sites can be complete assholes and randomly don't accept some tags.  It's usually not your fault.
+
+Okay, so:
+HTML works in things called tags.  Tags go in < >.  If you open a tag, you must close a tag (except for a fewww exceptions.)  Different tags do different things. You can define a tag with "style."  We'll talk about that later!
+
+STRUCTURE TAGS
+<div> defines a section of text
+<span> also defines a section of text, but should go inside a <div> tag, not on its own
+<body> or <head> these are section markers that you might see in other codes, but that don't work on worldof sites
+<p> defines a paragraph of text
+<img> defines an image
+
+STYLE TAGS (cannot be defined with style, go right in front of text you want formatted as such)
+<b> defines bold type
+<br> defines a line break (i.e., enter)
+<em> defines emphasized text, italics 
+<hr> defines a division using a horizontal line
+<h1> or <h2> or <blockquote> style 
+
+OTHER TAGS
+<a> defines a link
+<td> makes a table (I'll talk about that later)
+<ul> makes a bulleted list (this too)
+<ol> makes a numbered list
+<!--- insert text here ---> Notes text that doesn't do anything in code, but gets preserved in case u need notes for yourself!  
+
+You might also see <html> at the beginning and </html> at the end of a code.  It's not necessary for worldof coding, but is for most.  
+
+HOW DO YOU USE TAGS? 
+Like this: <tagname>content goes here!... </tagname>
+
+So a code might look like:
+<html>
+<p>This is a paragraph.  <b>I bolded this section INSIDE the paragraph. Wow, bold!</b>Wooo, paragraph. </p>
+<p>This is another paragraph. </p>
+</html>
+
+Pay attention to a few things:
+Every tag I opened (like <p> or <html>), I closed with </html> or </p>.
+
+HOW DO YOU STYLE TAGS?
+You can style tags for a few different things-- the text, an image, or the structure of a container.  (NB: A container is the thing that holds the text/image/etc.)
+Use = after style, use : after a style rules, use ; between style rules.  See below. 
+
+The format for styling a tag goes like this:
+<tagname style="styling tags"> </tagname>
+Like this:
+<div style="width:60px"></div>
+
+NB: You might see a <div> or <span> tag with an id/class label.  Like <div class="container"> or <span id="title">.  These are useful as notes for yourself, but don't do much without series CSS coding (which doesn't work with worldof).  
+
+Here are some basic style rules:
+STRUCTURE
+* width - for worldof sites, use %, like "width:50%;", this governs the width of the container
+* height - see ^
+* margin - goes OUTSIDE of a container. you can use percentage or px (pixels) for this.  use it like "margin:3px;" for 3px all around.  use "margin:auto" to automatically center a container.  use "margin: 10px 5px 15px 20px;" to do different margins on each side.  it goes like top right bottom left.  ((keep in mind your math when considering margin+container width to make sure it fits))
+* padding - goes INSIDE of a container to make space between the edge of the container and the stuff inside.  percentages work here, or px, it's written the same was as margin!
+
+FONT STYLE
+* font-family - tells it what font to use.  here's a list of internet (and worldof) friendly fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp.  Serif has the little edges on the font, sans-serif does not!  This is a sans-serif font.  
+* font-size - define this in px
+* text-align - left/right/center/justify
+* color - defines font color.  see below for info on color
+* text-transform: uppercase/lowercase/capitalize
+* letter-spacing: i usually use this in titles to make them look more title-y.  use it with px
+* line height: you can add this command to make spacing between lines lesser, using px or %
+
+OTHER STYLE-ISH STUFF
+* border - write it like "border:5px solid red;" the first piece says how thick it is, the second could be solid/dotted/double and the last is a color.  See below for info on colors!
+* background - use it in two ways: with a color like - "background: red;" or with an image like - "background: url(link-to-image);"  
+* background-repeat - repeat/no-repeat; this goes WITH a background tag and says if it should repeat or not
+* background-size - auto = as the image is sized; cover = covers entire container; you can also define with px or %
+
+IMAGES
+Images are governed with the <img> tag.  I'd recommend getting an imgur account, uploading images there, and then getting a direct link from imgur.  
+
+Image coding has a few rules:
+src = the image url
+alt = if the url won't load
+title = shows up when u hover over an image
+
+so it looks like: <img src="https://s.imgur.com/images/logo-1200-630.jpg" alt="imgur logo" title="here's an example">
+
+Img code does not require an end tag, you don't need </img>.  
+
+You can also use style rules on image tags!  Like this:
+<img src="url" alt="imgur logo" style="width:50%; border: 5px solid black;">
+
+COLOR
+Colors are great!  You use a "color: red;" tag to make font different or "background: #dddddd" to make a background a different color!
+
+HTML understands basic color words, like red, blue, black, green, orange.  You can also use http://htmlcolorcodes.com/ to find a more specific color.  You insert a "hex color" (that's what these are called" using its 6-letter/number code.  "color: #A84646;"  is how it would look. 
+
+LINKS
+Links are great.  They're governed with <a>  Like this: <a href="url"></a>
+They can also have title to make it with info on hover. <a href="url" title="title goes here">
+You can put text in there: <a href="url">This text will be hyperlinked.</a> or an image like <a href="url"><img src="image url"></a>.  
+
+Links can also be used as anchors.  This lets you click a link to jump down to a section of the page.  You name the section like this: <a name="top">Here's the Top of the Page</a>.  You link to it like <a href="#top">.  I used this in the staff book & the class book in the library!  
+
+TABLES/BULLETTED LISTS/NUMBERED LISTS
+Tables and ordered lists kinda go inside each other.  <table> is the big mama tag.  then <tr> makes a new row and <td> makes a cell Like this:
+<table>
+<tr>
+<td>data cell 1</td>
+<td>data cell 2</td>
+</tr>
+<tr>
+<td>data cell 3</td>
+<td>data cell 4</td>
+</tr>
+</table>
+
+Bulleted lists/numbered lists do pretty much the same way -- use <ul> for bullets, <ol> for numbered and <li> for each list item. Like this:
+<ul>
+<li>bulleted item 1</li>
+<li>bulleted item 2</li?
+</ul>
+
+HOW DO I COMBINE THIS STUFF?
+You'll use <div> tags to make a container.  Look at this code: https://github.com/aigbta/layouts/blob/master/arithmancy-lesson.html. It's a lesson code, probably similar to what you'd do for your own lessons!  I also made Joel Thayer's Arts & Crafts, if you want that one too, it'll eventually be on the link i put at the top.  
+
+ I'm gonna explain some pieces of it to explain how to combine this stuff. 
+
+It's got one main <div> guy, and that makes that green background. This:
+
+<div id="container" style="
+    background:url(https://i.imgur.com/1vJ0dzd.jpg); 
+    background-repeat:repeat;
+    margin:auto;
+    padding:2%;
+    width:94%;">
+
+Then, each of the paper background sections is a new <div> INSIDE that main one.  This is the code for each of those:
+<div id="container2" style="
+    background:url(https://i.imgur.com/Wym4d2h.jpg);
+    background-repeat:repeat;
+    margin:auto;
+    padding:4%;
+    width:90%;">
+
+Inside THAT are a few <div>s.  The first is for the title:
+<div id="title" style="
+    font-family:'Trajan', serif;
+    font-size:35px;
+    text-align:center;
+    letter-spacing:5px;
+    color:#214130;
+    text-transform:uppercase;"> TITLE HERE </div>
+
+Then I used an <hr> which!! like many things! can be styled.  Google <hr> styles for some examples and use those!
+
+In a new <div> after the title but still inside both the background and the sections, I made one for the text of the lesson.  This is that code:
+
+<div id="text" style="
+    font-family:'Trajan', serif;
+    font-size:18px;
+    text-align:justify;
+    color:#2C3206;
+    display:inline-block;
+    text-indent:5%">
+
+The "display:inline-block;" here makes it so the images format the way I wanted them to, and the "text-indent" makes the text... indent.  
+
+You'll also see inside this <div> is a <span> tag.  This makes the text within the <span> format slightly differently, as in for when the professor speaks.  
+
+this is that code:
+span class="speech" style="color:#214130;text-shadow:1px 1px 5px #8A8A79;">speech text </span>
+
+When all the text was done for that section, I ended it with a </div>.  I also put a <br> in there to make space between the paper section and the next paper section-- you could also do this with a bigger margin, but that can be hard with the margin:auto bit.  So I used a <br> which is just a blank line.
+
+annnd you can see in the code there's also a bit of an image code in there too... At the very end, I used </div> to end the final big mama <div>.  
+
+i think that's all i've got for now??? i hope this isn't too overwhelming.  
+
+OKAY SO... NOW WHAT?
+1. Go look at some other codes.  Here's my repository: https://github.com/aigbta/layouts.  Copy the code from there into the code viewer i put up there earlier!
+2. Let me know if you have questions!  This is kind of a lot... but... ahhh it's all important.  
+3. Remember, google is your friend.  W3schools is an incredible site with lots of html help.  Google google google.
